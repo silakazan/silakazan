@@ -9,7 +9,7 @@
 
 
 - 📈 I was graduated from HACETTEPE University Mathematics department!
-- 💻 I am currently doing research in the field of data science.
+- 💻 I’m currently working on Data Analytics and Engineering , Machine Learning domains.
 - 🌱 I'm a data scientist who loves researching Cryptography, Blockchain technology,Mathematical things.
 - 🥅 API's are fun, i like to play with twitter, etherscan, Apis.
 - ⚡ Learning something new everyday keps my motivation levels high.

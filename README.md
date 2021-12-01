@@ -1,6 +1,6 @@
 ### Hello 👋
 
-## I'm SILA 
+- I’m Sıla
 
 <!--
 **silakazan/silakazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
